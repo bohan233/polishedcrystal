@@ -1,0 +1,43 @@
+Name,Lv,HP,Atk,Def,SpA,SpD,Spe,Nature,Ability,Item,Move1,Move2,Move3,Move4,TeamFlag,SpeTarget50,SpeTargetMon
+Scizor,86,297,339,203,113,169,143,Adamant,Technician,Leftovers,Bullet Punch,Swords Dance,Brick Break,Bug Bite,,0,N/A
+Feraligatr,50,161,172,120,85,103,130,Adamant,Sheer Force,Life Orb,Waterfall,Crunch,Ice Punch,Dragon Dance,,230,Leafeon(Seed Bomb)
+Dragonite,85,276,312,192,180,201,242,Jolly,Multiscale,Lum Berry,Fire Punch,Outrage,ExtremeSpeed,Dragon Dance,,210,Golduck(Ice Beam)
+Porygon-Z,86,269,152,152,349,160,240,Modest,Adaptability,,Ice Beam,Tri Attack,Nasty Plot,Thunderbolt,,230,Leafeon(Strength)
+Aerodactyl,51,158,160,87,59,97,203,Jolly,Rock Head,,Earthquake,Rock Slide,Brave Bird,Stone Edge,,290,Weavile(Icicle Crash)
+Cloyster,56,139,164,223,95,72,149,Jolly,Skill Link,White Herb,Icicle Spear,Waterfall,Shell Smash,Rock Blast,,230,Leafeon(Seed Bomb)
+Kabutops,61,201,222,152,75,109,121,Adamant,Swift Swim,White Herb,Shell Smash,Stone Edge,Waterfall,Aqua Jet,,230,Leafeon(Seed Bomb)
+Kangaskhan,51,184,149,102,50,102,158,Jolly,Parental Bond,,Sucker Punch,Outrage,Brick Break,Crunch,,230,Leafeon(Strength)
+Charizard(Shiny),71,240,172,137,150,154,234,Jolly,Tough Claws,,Flare Blitz,Dragon Claw,ThunderPunch,Dragon Dance,,210,Kingdra(Dragon Pulse)
+Charizard,50,153,102,98,151,105,167,Timid,Solar Power,,Dragon Pulse,Flamethrower,Air Slash,Solar Beam,,210,Kingdra(Dragon Pulse)
+Gyarados,100,340,349,194,140,236,278,Jolly,Intimidate,,Waterfall,Earthquake,Dragon Dance,Stone Edge,,210,Kleavor(Rock Slide)
+Gyarados(Red),82,280,287,158,115,194,228,Jolly,Moxie,,Waterfall,Avalanche,Earthquake,Dragon Dance,,210,Kleavor(Rock Slide)
+Crobat,50,161,132,100,90,100,182,,Inner Focus,,Poison Jab,Brave Bird,U-turn,Roost,,230,Seadra(Ice Beam)
+Blastoise,67,204,122,159,181,166,189,Timid,Mega Launcher,White Herb,Shell Smash,Water Pulse,Dark Pulse,Flash Cannon,Tx:Lead,218,Porygon-Z(Hidden Power(Fighting))
+Annihilape,50,186,183,100,63,110,142,Adamant,Gorilla Tactics,Choice Scarf,Drain Punch,Outrage,Shadow Claw,Gunk Shot,Tx:2nd,195,Tauros(Zen Headbutt)
+Mismagius,62,166,79,98,199,160,218,Timid,Levitate,Expert Belt,Energy Ball,DazzlingGleam,Shadow Ball,Thunderbolt,Tx:3rd,196,Blastoise(Iron Head)
+Togekiss,95,296,116,214,354,252,246,Modest,Serene Grace,Choice Scarf,Flamethrower,Air Slash,Moonblast,Aeroblast,Ty:Lead,230,Seadra(Ice Beam)
+Steelix,50,182,110,277,56,86,35,Impish,Sheer Force,Assault Vest,Brick Break,Iron Tail,Rock Slide,Earthquake,Ty:2nd,,
+Suicune,51,210,87,187,106,138,98,Bold,Water Absorb,Leftovers,Scald,Rest,Ice Beam,Calm Mind,Ty:3rd,,
+Alakazam,51,133,71,72,190,105,175,Lax,Synchronize,,Recover,Calm Mind,Future Sight,Psychic,,,
+Tyranitar,56,225,227,145,109,134,96,Adamant,Sand Stream,Assault Vest,Rock Slide,Fire Punch,Crunch,Earthquake,TSand:Lead,,
+Gliscor,51,175,149,148,54,97,139,Jolly,Poison Heal,Toxic Orb,Earthquake,Baton Pass,Facade,Swords Dance,TSand:2nd,,
+Skarmory,50,187,101,211,47,90,95,Impish,Sturdy,Leftovers,Drill Peck,Spikes,Roar,Roost,TSand:3rd,,
+Moltres,68,222,145,148,238,141,210,Timid,Drought,Heat Rock,Flamethrower,Air Slash,Sunny Day,Will-O-Wisp,TSun:Lead,,
+Venusaur,61,225,100,125,202,145,121,Modest,Chlorophyll,Black Sludge,Sleep Powder,Solar Beam,Sludge Bomb,HealingLight,TSun:2nd,,
+Typhlosion,85,254,156,163,270,175,279,Timid,Flame Body,Choice Specs,Will-O-Wisp,Earth Power,Flamethrower,Hidden Power(Ice),TSun:3rd,,
+Zapdos,93,300,165,191,356,201,278,Modest,Drizzle,Damp Rock,Thunder,Hurricane,Rain Dance,Volt Switch,TRain1:Lead,,
+Kingdra(Shiny),91,323,183,206,289,206,188,Modest,Swift Swim,Choice Specs,Surf,Dragon Pulse,Ice Beam,Rain Dance,TRain1:2nd,198,Charizard(Dragon Claw)
+Magnezone,85,293,135,226,335,185,133,Modest,Levitate,LeftOvers,Thunderbolt,Flash Cannon,Hidden Power(Ice),Light Screen,TRain1:3rd,230,Leafeon(Strength)
+Kingdra,92,269,187,208,266,208,271,Timid,Sniper,Scope Lens,Surf,Ice Beam,Focus Energy,Dragon Pulse,,198,Charizard(Dragon Claw)
+Politoed,55,214,93,144,121,145,110,Bold,Drizzle,Damp Rock,Scald,Giga Drain,Earth Power,Rain Dance,TRain2:Lead,,
+Poliwrath,50,197,157,120,81,110,95,Adamant,Swift Swim,,Waterfall,Drain Punch,Ice Punch,Earthquake,TRain2:2nd,,
+Magnezone,50,177,81,136,200,110,80,Modest,Levitate,Leftovers,Thunder,Flash Cannon,Hidden Power(Fairy),Volt Switch,TRain2:3rd,,
+Slowking(Galarian),50,202,85,100,178,141,32,Quiet,Regenerator,Black Sludge,Trick Room,Shadow Ball,Psychic,Sludge Bomb,TTrick1:Lead,,
+Azumarill(Shiny),50,207,112,100,110,101,49,Brave,Huge Power,Assault Vest,Waterfall,Acqua Jet,Play Rough,Brick Break,TTrick1:2nd,,
+Machamp,50,197,200,100,74,106,54,Brave,No Guard,Expert Belt,DynamicPunch,Stone Edge,Poison Jab,Earthquake,TTrick1:3rd,,
+Rhyperior,51,231,214,153,62,82,41,Brave,Solid Rock,Assault Vest,Earthquake,Outrage,Rock Blast,Stone Edge,,,
+Ampharos,50,202,95,110,194,116,63,Quiet,Static,Leftovers,Dragon Pulse,Thunderbolt,Hidden Power(?),Power Gem,,,
+Ursaluna,51,241,214,128,60,102,50,Brave,Guts,Fire Orb,Belly Dram,Slash,Earthquake,Play Rough,,,
+Porygon2,50,192,91,111,172,115,58,Quiet,Download,Eviolite,Tri Attack,Thunderbolt,Ice Beam,Recover,,,
+Muk(Alolan),50,212,172,96,85,120,49,Brave,Corrosion,,Haze,Crunch,Gunk Shot,Knock Off,,,
+Slowbro,58,232,109,193,161,115,36,Relaxed,Regenerator,Assault Vest,Scald,Ice Beam,Psychic,Flamethrower,,,
